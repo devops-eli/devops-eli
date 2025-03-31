@@ -1,7 +1,6 @@
-<div align="right">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4ZmxocTYwZWxyYnBpeHJmeXgwZ3E2ZGxkNG1zZWxibjZscTNlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SANDK2zAhctsWpJOjx/giphy.gif"/>
-</div>
-👋 Olá! Eu sou Elias Gustavo
+<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4ZmxocTYwZWxyYnBpeHJmeXgwZ3E2ZGxkNG1zZWxibjZscTNlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SANDK2zAhctsWpJOjx/giphy.gif"/>
+
+<h1>👋 Elias Gustavo</h1>
 
 ✨ Bem-vindo ao meu perfil do GitHub! 🚀
 
@@ -12,8 +11,6 @@
 - 📚 Sempre aprendendo algo novo sobre / tecnologia ou linguagens novas
 - 🎨 Amante soluções / para o dia a dia e automações 
 - 🎓 Hobbies / Bounty e Pentester
-
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
