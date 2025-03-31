@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! 🚀
 
 ## 🔹 Sobre mim
 
-- 💻 Desenvolvedor / Back-End, Python, Ruby, Java e PHP
+- 💻 Desenvolvedor Back-End / Python, Ruby, Java e PHP
 - 🎯 Apaixonado por / tecnologia e games
 - 📚 Sempre aprendendo algo novo sobre / tecnologia ou linguagens novas
 - 🎨 Amante soluções / para o dia a dia e automações 
