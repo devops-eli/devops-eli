@@ -1,6 +1,9 @@
+<div align="right">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4ZmxocTYwZWxyYnBpeHJmeXgwZ3E2ZGxkNG1zZWxibjZscTNlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SANDK2zAhctsWpJOjx/giphy.gif"/>
+</div>
 👋 Olá! Eu sou Elias Gustavo
 
-Bem-vindo ao meu perfil do GitHub! 🚀
+✨ Bem-vindo ao meu perfil do GitHub! 🚀
 
 ## 🔹 Sobre mim
 
