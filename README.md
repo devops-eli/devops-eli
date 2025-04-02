@@ -1,16 +1,15 @@
-<img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4ZmxocTYwZWxyYnBpeHJmeXgwZ3E2ZGxkNG1zZWxibjZscTNlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SANDK2zAhctsWpJOjx/giphy.gif"/>
-
-<h1>👋 Elias Gustavo</h1>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTc4ZmxocTYwZWxyYnBpeHJmeXgwZ3E2ZGxkNG1zZWxibjZscTNlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SANDK2zAhctsWpJOjx/giphy.gif" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
+<h1>Elias Gustavo</h1>
 
 ✨ Bem-vindo ao meu perfil do GitHub! 🚀
 
 ## 🔹 Sobre mim
-
 - 💻 Desenvolvedor Back-End / Python, Ruby, Java e PHP
 - 🎯 Apaixonado por / tecnologia e games
 - 📚 Sempre aprendendo algo novo sobre / tecnologia ou linguagens novas
 - 🎨 Amante soluções / para o dia a dia e automações 
 - 🎓 Hobbies / Bounty e Pentester
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -29,3 +28,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ✨ _Sinta-se à vontade para explorar meus repositórios e contribuir!_ 🚀
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
