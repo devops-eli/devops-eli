@@ -1,4 +1,4 @@
-<h1>Elias Gustavo</h1>
+<h1>👨‍💻 Elias Gustavo</h1>
 
 ✨ Bem-vindo ao meu perfil do GitHub! 🚀
 
